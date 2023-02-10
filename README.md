@@ -11,8 +11,8 @@ Notes-App-Server using Nodejs
 7. Authenticaiton using jwt
 
 ### Libraries Used
-1. Mongoose (for mongodb)
-2. Express (for routing)
-3. dotenv (for environment variables)
-4. jwt (for authentication)
-5. bcrypt (for hashing)
+1. Mongoose 
+2. Express 
+3. dotenv 
+4. jwt 
+5. bcrypt 
